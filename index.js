@@ -1,6 +1,6 @@
 const age = 24;
 
-const name1 = 'Aryan'
+const name1 = 'Aryan Maheshwari'
 
 const dob = '26/03/2002'
 
