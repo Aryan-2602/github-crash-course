@@ -23,3 +23,8 @@ function new_featureAdd(){
     console.log('this is a new feature')
     console.log('this is a new feature A')
 }
+
+function new_featureAddB(){
+    console.log('this is a new feature')
+    console.log('this is a new feature B')
+}
